@@ -4,7 +4,6 @@ A software engineer focused on learning new technologies and developing them wit
 
 ### 🛠 &nbsp;Tech Stack
 ![Java](https://img.shields.io/badge/-Java-05122A?logo=Java)&nbsp;
-![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=Kotlin)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=Spring)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
